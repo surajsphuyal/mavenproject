@@ -17,4 +17,11 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    @Test
+    public void runDevops()
+    {
+    	System.out.println("hello world");
+		System.out.println("this is devops project");
+    }
 }
